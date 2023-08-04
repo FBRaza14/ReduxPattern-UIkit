@@ -1,0 +1,6 @@
+framework module Pods_Redux_Pattern {
+  umbrella header "Pods-Redux_Pattern-umbrella.h"
+
+  export *
+  module * { export * }
+}

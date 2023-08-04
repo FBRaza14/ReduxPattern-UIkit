@@ -1,0 +1,6 @@
+framework module Pods_Redux_PatternTests {
+  umbrella header "Pods-Redux_PatternTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
